@@ -1,0 +1,112 @@
+body {
+    background-repeat: no-repeat;
+    background-color: #bdb8ac !important;
+    background-attachment: fixed;
+    background-size: 30%;
+}
+
+
+/*can't make profile extend bottom */
+
+.profile {
+    background-color: rgba(220,220,222, .8);
+    border-left: 5px double #9c978c;
+    border-right: 5px double #9c978c;
+    color: black;
+    text-align: center;
+    padding: 40px !important;
+    }
+    
+
+.profile-pic{
+    border-radius: 50%;
+    width: 125px;
+    border: 5px double #ebebeb;
+}
+
+.line-bottom {
+    border-bottom: 4px solid #6d6e67;
+}
+
+.skills {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    color: #6d6e67;
+    padding: 10px;
+}
+
+.outer-resume {
+    padding: 20px !important;
+}
+
+.inner-resume {
+    background-color: #ebebeb;
+    padding: 30px;
+    font-size: 12px;
+}
+
+.inner-resume h2 {
+    color: #0e9ec9;
+    font-family: 'Cinzel', serif;
+}
+
+.name-text {
+    color: #0e9ec9;
+    font-family: "Fjalla One", sans-serif;
+}
+
+.links {
+    font-size: 35px;
+    padding-bottom: 10px;
+}
+
+.padding {
+    padding-top: 15px;
+}
+
+.job-description {
+    border-left: 4px solid #6d6e67;
+    padding-left: 30px;
+}
+
+.employer {
+    font-style: italic;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+.job-title {
+    color: #0e9ec9;
+}
+
+.education {
+    padding: 30px !important;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.education-item {
+    background-color: #ebebeb;
+    border-radius: 20%;
+    padding: 10px;
+    text-align: center;
+    margin: 5px !important;
+}
+
+.blue {
+    color: #0e9ec9;
+}
+
+.purple-back {
+    background-color: rgba(72, 106, 161, .85);
+}
+.yellow-back {
+    background-color: rgba(186, 50, 82, .85);
+}
+
+.white-text {
+    color: #ebebeb;
+}
